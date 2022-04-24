@@ -36,6 +36,9 @@ public class FileManager {
         return totalSize;
     }
 
+
+
+    
     // Aquí habría otros métodos para gestionar ficheros y directorios:
     // Crear ficheros, mover ficheros, eliminar ficheros, etc.
 }
